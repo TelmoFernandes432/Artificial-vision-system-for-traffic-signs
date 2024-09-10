@@ -20,12 +20,13 @@ This practical project aims to develop a set of algorithms that allow the identi
 - **Image Acquisition**: Image acquisition in real time.
 - **Histogram Processing**: Histogram equalization (Grayscale Images, Color Images).
 - **Color Transformation**: HSV, Hue, Saturation, Value application (RGB to HSV, HSV to RGB).
-- **Measure Properties**: Area, centroid, bounding box, connected components.
+- **Measure Properties**: Area, centroid, blob bounding box, connected components.
 - **Use of Structuring Elements**: Kernel.
+- - **Morphological operations**: Dilation, Erosion, Opening, Closing.
 - **Thresholds**: Manual and automatic thresholds (Niblack).
 - **Filter**: Filtering image (Convolution matrix; Low-pass Filters, High-pass Filters).
 - **Mask**: Application of yellow, red, and blue masks.
-- **Shape Detection**
+- **Shape Detection**: Circle, Triangles, Rectangles, Squares
 
 
 # Image Processing for Traffic Signs
