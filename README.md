@@ -1,4 +1,4 @@
-# Artificial-vision-system-for-traffic-signs
+# Artificial vision system for traffic signs
 
 This practical project aims to develop a set of algorithms that allow the identificationof objects in an inspection area. This system is able to target different traffic signals, identifying its relative position. 
 
