@@ -32,6 +32,12 @@ This practical project aims to develop a set of algorithms for identifying objec
 - **Shape Detection**: Circle, Triangles, Rectangles, Squares
 
 
+
+## Generic View
+![image](https://github.com/user-attachments/assets/dbb84d82-a6d8-407d-8335-b79f30f658ae)
+
+
+
 # Image Processing for Traffic Signs
 
 ## 1. Image Acquisition
