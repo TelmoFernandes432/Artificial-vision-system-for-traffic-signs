@@ -43,7 +43,7 @@ This practical project aims to develop a set of algorithms for identifying objec
 ## 1. Image Acquisition
 
 - **Real-Time Image Acquisition**:
-  - The camera captures images in real-time in this case laptop webcam, which are displayed and processed frame by frame in MATLAB. Continuous acquisition allows each frame to be individually analyzed and processed to detect traffic signs.
+  - The camera captures images in real-time in this full HD camera, which are displayed and processed frame by frame in MATLAB. Continuous acquisition allows each frame to be individually analyzed and processed to detect traffic signs.
 
 - **Image Capture Function**:
   - The capture function activates the camera and starts capturing frames, displaying the live video in a graphical window in MATLAB. At each time interval, the image is sent to the processing function. A timer is set to ensure the capture function runs at regular intervals.
