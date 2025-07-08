@@ -1,6 +1,6 @@
 # Artificial vision system for traffic signs
 
-This practical project aims to develop a set of algorithms for identifying objects within an inspection area, with the capability to recognize various traffic signals and determine their relative positions. 
+This practical project aims to develop a set of MATLAB algorithms for identifying objects within an inspection area, with the capability to recognize various traffic signals and determine their relative positions. 
 
 | Brief Vision System                                                                    |
 |----------------------------------------------------------------------------------|
